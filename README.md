@@ -10,7 +10,7 @@
 ### Phase II: Mobile Application
 
 **Final Year Project · BS Computer Science**  
-Wisdom Degree College for Women, Channan  
+Wisdom Degree College for Women, Channan, Gujrat  
 *Affiliated with the University of the Punjab, Lahore*
 
 **Submitted by:**  
@@ -257,11 +257,11 @@ The Phase I Web Portal provides:
 
 | Name | Roll Number | Contribution |
 |---|---|---|
-| **Raqeeba Yasin** | 092873 | Full-stack development, backend architecture, security implementation, documentation |
-| **Uma Ammara** | 092869 | Mobile UI development, API integration, testing and validation |
+| **Raqeeba Yasin** | 092873 | Project Collaborator |
+| **Uma Ammara** | 092869 | Project Collaborator |
 
 **Supervisor:** Dr. Muhammad Adeel  
-**Institution:** Wisdom Degree College for Women, Channan  
+**Institution:** Wisdom Degree College for Women, Channan, Gujrat 
 **University Affiliation:** University of the Punjab, Lahore  
 **Programme:** BS Computer Science  
 
@@ -269,7 +269,7 @@ The Phase I Web Portal provides:
 
 ## ⚠️ Copyright and Usage Restrictions
 
-**© 2024–2025 Raqeeba Yasin and Uma Ammara. All Rights Reserved.**
+**© 2025-2026 Raqeeba Yasin and Uma Ammara. All Rights Reserved.**
 
 This repository and all of its contents — including but not limited to source code, architecture design, database schema, API design, documentation, and associated assets — are the original intellectual property of the authors.
 
